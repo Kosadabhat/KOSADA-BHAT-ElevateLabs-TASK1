@@ -8,7 +8,7 @@ This repository contains the preprocessing and cleaning of the Titanic dataset a
 
 ## Files
 
-- `Titanic_Preprocessing.ipynb` — Jupyter/Colab notebook with the preprocessing code.
+- `Kosada Bhat TASK1 ElevateLabs.ipynb` — Jupyter/Colab notebook with the preprocessing code.
 - `cleaned_titanic_dataset.csv` — The cleaned and preprocessed dataset.
 
 ## Preprocessing Steps Performed
@@ -27,10 +27,6 @@ This repository contains the preprocessing and cleaning of the Titanic dataset a
    - Visualized outliers with boxplots.  
    - Removed outliers from `Age` and `Fare` using the IQR method.
 
-## Usage
-
-Open the notebook `Titanic_Preprocessing.ipynb` to see the complete step-by-step preprocessing process. The cleaned dataset `newtitanic_dataset.csv` is ready for machine learning model training.
-
 ## Author
 
-
+Kosada Bhat
